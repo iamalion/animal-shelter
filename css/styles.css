@@ -1,5 +1,8 @@
-html {
+body {
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background-image: url(/background.png);
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 header {
     font-size: 5vh;
@@ -38,7 +41,6 @@ img {
     object-fit: cover;
 }
 
-
 .div2 {
     padding: 10px;
     border: 2px solid black;
@@ -49,4 +51,5 @@ img {
 .column {
     width: 300px;
     float: left;
+   
 }
