@@ -1,0 +1,14 @@
+html {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+header {
+    font-size: 5vh;
+    text-align: center;
+}
+#catchphrase {
+    font-style: italic;
+    text-align: center;
+    font-size: 3vh;
+    margin: 0;
+    color: darkgreen;
+}
